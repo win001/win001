@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Vineet
+- 👀 I’m interested in Embedded System
+- 🌱 I’m currently working in an IoT company
+- 📫 Connect with me https://in.linkedin.com/in/vineet-kumar-99a332136
